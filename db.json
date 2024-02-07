@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "likes": 0,
+      "id": 11,
+      "categories": "1111111111",
+      "content": "ggggggggggggggggggggggggggggggg"
+    },
+    {
+      "likes": 0,
+      "id": 15,
+      "title": "22222"
+    },
+    {
+      "title": "rsjjjjjjjjuuuuuuuuuj",
+      "categories": "tttjjjjj",
+      "content": "rajjjjjjjjjjjjjjjjjjjjjjjj",
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,7 @@
+.btn-success:hover,
+.btn-secondary:hover {
+  background-color: #28a745; 
+  border-color: #28a745; 
+  color: #fff; 
+}
+

@@ -1,0 +1,61 @@
+
+
+.post-details {
+  margin-top: 20px;
+}
+
+.post-details button {
+  margin-right: 10px;
+}
+
+.post-details .btn-info::after {
+  content: "👍"; 
+  margin-left: 5px;
+}
+
+.post-content {
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+}
+
+.post-content li {
+  padding: 10px;
+}
+
+.post-content h1 {
+  margin-bottom: 5px;
+}
+
+.post-content h3 {
+  margin-top: 5px;
+  color: #888;
+}
+
+.post-content p {
+  margin: 10px 0;
+}
+
+.post-content i {
+  color: #888;
+  background-color: #f0f8ff; 
+  padding: 10px;
+  display: block;
+  border-radius: 5px;
+}
+
+
+.post-details .row {
+  justify-content: space-between;
+}
+
+.post-details .col-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.post-details .btn-secondary {
+  margin-right: 10px;
+}
